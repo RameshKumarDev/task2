@@ -1,0 +1,19 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+#table1,td,tr{
+	/* border:1px solid black; */
+	border-collapse:collapse;
+	margin:100px 300px;
+	/* padding:3px; */
+	
+	}
+.description{
+	color:grey;
+}
+table{
+	/* width:75vw; */
+}
+div{
+	overflow-x:auto;
+}
